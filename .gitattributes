@@ -1,4 +1,4 @@
-# ให้ Git แปลงไฟล์ text เป็น LF (Line Feed) เสมอ
+# ให้ Git แปลงไฟล์ text เป็น LF (Line Feed) เสมอ.
 * text=auto
 
 # บังคับให้ไฟล์ที่เป็น TypeScript ใช้ LF
