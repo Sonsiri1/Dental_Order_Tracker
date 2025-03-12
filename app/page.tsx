@@ -1,6 +1,6 @@
 const page = () => {
   return (
-    <div>pageงาย</div>
+    <div>pageงายครับ</div>
   )
 }
 export default page
