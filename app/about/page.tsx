@@ -1,10 +1,10 @@
-function page() {
-
+const About = () => {
 
   return (
 
-    <>Hello world 007</>
+    <div>about</div>
 
   )
 }
-export default page
+export default About
+
